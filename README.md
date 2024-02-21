@@ -1,1 +1,1 @@
-[lecture-1](https://github.com/ylabio/react-webinar-3/pull/27)
+[ДЗ №1](https://github.com/ylabio/react-webinar-3/pull/27)
