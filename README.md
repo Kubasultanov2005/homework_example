@@ -2,3 +2,4 @@
 2. [ДЗ №2](https://github.com/ylabio/react-webinar-3/pull/144)
 3. [ДЗ №3](https://github.com/ylabio/react-webinar-3/pull/297)
 4. [ДЗ №4](https://github.com/ylabio/react-webinar-3/pull/313)
+5. [ДЗ №5](https://github.com/ylabio/react-webinar-3/pull/393)
